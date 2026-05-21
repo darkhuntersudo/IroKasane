@@ -65,6 +65,11 @@ open index.html
 
 Or drop `index.html` on any static host (GitHub Pages, Netlify, Vercel) and it works immediately.
 
+## Live Demo 
+ ```bash
+ https://irokasane.netlify.app/
+
+```
 ---
 
 ## How It Works
